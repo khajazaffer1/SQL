@@ -1,0 +1,7 @@
+#use IS operator for NULL comparision
+
+      #WHERE COLNAME IS NULL
+      #WHERE COLNAME IS NOT NULL
+      
+      
+   SELECT * FROM emp WHERE sal IS NULL 
